@@ -18,11 +18,15 @@ public class Main {
                 "C++"
         };
 
+        System.out.println("EX 01");
+
         System.out.println("Valor Original Array 01: " + Arrays.toString(my_array1));
         Arrays.sort(my_array1);
         System.out.println("Valor Original Array 01: " + Arrays.toString(my_array1));
 
         System.out.println(" - - - - - - - -- --- ----- --  - - -  -- ");
+
+        System.out.println("EX 02");
 
         System.out.println("Valor Original Array 01: " + Arrays.toString(my_array2));
         Arrays.sort(my_array2);
